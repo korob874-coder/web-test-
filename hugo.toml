@@ -2,3 +2,7 @@ baseURL = 'https://korob874-coder.github.io/web-test-/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'PaperMod'
+[params]
+  # Agar link gambar selalu benar meski di sub-folder
+  canonifyURLs = true
+  relativeURLs = true
