@@ -1,4 +1,4 @@
-baseURL = 'https://azure-skunk.cloudvent.net/'
+baseURL = 'https://korob874-coder.github.io/web-test-/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'PaperMod'
